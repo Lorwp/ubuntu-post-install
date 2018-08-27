@@ -1,7 +1,5 @@
 ffmpeg
 flatpak
-gifsicle
-inxi
 mediainfo
 network-manager-l2tp-gnome
 network-manager-openvpn-gnome
@@ -14,6 +12,5 @@ rsync
 samba
 ssh
 symlinks
-tlp
 unrar
 youtube-dl
